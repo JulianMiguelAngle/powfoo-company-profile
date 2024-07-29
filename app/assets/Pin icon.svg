@@ -1,0 +1,27 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_80_54)">
+<rect width="72" height="72" rx="16" fill="#0000FF"/>
+<path d="M43.1835 31.8052L40.2188 28.8376C38.1921 26.8089 37.1788 25.7946 36.0904 26.0347C35.0021 26.2748 34.5086 27.6216 33.5217 30.3151L32.8537 32.1381C32.5906 32.8562 32.4591 33.2152 32.2224 33.4929C32.1162 33.6175 31.9954 33.7289 31.8625 33.8245C31.5664 34.0377 31.1981 34.1392 30.4614 34.3423C28.8011 34.8 27.9709 35.0289 27.658 35.5721C27.5228 35.8069 27.4524 36.0735 27.4541 36.3446C27.4581 36.9715 28.067 37.581 29.2848 38.8L30.6993 40.2163L26.2234 44.6964C25.9255 44.9946 25.9255 45.4782 26.2234 45.7764C26.5214 46.0746 27.0044 46.0746 27.3024 45.7764L31.7784 41.2961L33.2444 42.7635C34.4699 43.9902 35.0827 44.6036 35.7134 44.6045C35.9792 44.6049 36.2404 44.5358 36.4713 44.4041C37.0192 44.0914 37.2493 43.2551 37.7095 41.5825C37.9119 40.8472 38.013 40.4795 38.2254 40.1835C38.3184 40.054 38.4262 39.9358 38.5468 39.8314C38.8221 39.593 39.1788 39.459 39.8922 39.191L41.7362 38.4981C44.4 37.4973 45.7319 36.9969 45.9667 35.9115C46.2014 34.826 45.1954 33.8191 43.1835 31.8052Z" fill="white"/>
+<g filter="url(#filter0_f_80_54)">
+<rect width="72" height="6" fill="#CCCCFF"/>
+</g>
+<g filter="url(#filter1_f_80_54)">
+<rect x="66" width="6" height="72" fill="#CCCCFF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_80_54" x="-20" y="-20" width="112" height="46" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_80_54"/>
+</filter>
+<filter id="filter1_f_80_54" x="46" y="-20" width="46" height="112" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_80_54"/>
+</filter>
+<clipPath id="clip0_80_54">
+<rect width="72" height="72" rx="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
