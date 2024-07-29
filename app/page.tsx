@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import Folds from "@/app/assets/folds.svg"
+import Folds from "@/app/assets/Folds.svg"
 
 import Users from "@/app/assets/Users icon.svg";
 import RulerCrossPen from "@/app/assets/Ruler cross pen icon.svg";
