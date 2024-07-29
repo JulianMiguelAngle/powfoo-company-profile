@@ -62,9 +62,9 @@ export function Navbar() {
                             *:border-[1px] *:border-solid *:border-primary-200 *:rounded-[32px]    
                         `}>
                             <Link href={"/"} className="hover:bg-primary-200">Home</Link>
-                            <Link href={"/"} className="hover:bg-primary-200">Services</Link>
-                            <Link href={"/"} className="hover:bg-primary-200">About</Link>
-                            <Link href={"/"} className="hover:bg-primary-200">Contact</Link>
+                            <Link href={"/#services"} className="hover:bg-primary-200">Services</Link>
+                            <Link href={"/about"} className="hover:bg-primary-200">About</Link>
+                            <Link href={"/contact"} className="hover:bg-primary-200">Contact</Link>
                         </section>
 
                         <Link href={"/"}

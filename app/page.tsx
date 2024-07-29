@@ -71,7 +71,8 @@ export default function Home() {
           </p>
         </article>
 
-        <section className={`
+        <section id="services"
+           className={`
             flex flex-col md:flex-row flex-wrap gap-6 lg:gap-12 relative
             *:relative *:max-w-[328px] *:min-h-[380px] *:lg:max-w-[420px] *:overflow-hidden
           `}>
