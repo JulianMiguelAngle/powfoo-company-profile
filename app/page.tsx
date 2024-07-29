@@ -331,7 +331,7 @@ export default function Home() {
           </p>
         </article>
 
-        <section className="flex flex-col sm:flex-row flex-wrap gap-6 lg:gap-8 justify-center items-center *:rounded-xl *:object-cover">
+        <section className="flex flex-col sm:flex-row flex-wrap gap-6 lg:gap-8 justify-center items-center *:rounded-xl *:object-cover *:w-full">
           <Image
             className="max-w-[280px] lg:max-w-[380px] h-[250px] lg:h-[300px]"
             src={Image_1}
@@ -381,7 +381,7 @@ export default function Home() {
           </h1>
         </article>
 
-        <section className="flex flex-row flex-wrap justify-center gap-8 overflow-scroll">
+        <section className="flex flex-row sm:flex-wrap sm:justify-center gap-8 overflow-scroll">
           <section className={`
             flex flex-row sm:flex-col gap-8 before:h-6 before:hidden before:sm:block
             *:min-w-[300px] *:max-w-[250px] *:py-8 *:px-6 *:flex *:flex-col *:gap-y-8 *:rounded-2xl *:bg-neutral-white-0

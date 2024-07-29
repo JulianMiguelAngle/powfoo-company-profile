@@ -11,7 +11,7 @@ export function Navbar() {
     const [isOpened, setIsOpened] = useState(false);
 
     return (
-        <header className="h-[90px] py-3 px-4 sm:px-6 lg:px-[60px] flex items-center justify-between bg-primary-300 rubik sticky">
+        <header className="h-[90px] py-3 px-4 sm:px-6 lg:px-[60px] flex items-center justify-between bg-primary-300 rubik sticky z-50">
             <Image 
                 className="h-[60px] w-[120px] md:w-[150px] object-cover"
                 alt="PowFoo Logo"
