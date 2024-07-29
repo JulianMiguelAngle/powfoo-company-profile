@@ -34,14 +34,15 @@ export default function Home() {
   return (
     <>
     <Navbar />
-    <section className="py-24 px-4 flex flex-col gap-y-8 bg-primary-300">
+    <section className="py-24 px-4 flex flex-col items-center gap-y-8 bg-primary-300">
       <h1 className={`
+        max-w-[1000px]
         dm-sans font-bold text-neutral-0 text-center text-wrap w-full
         text-display-small sm:text-display-medium lg:text-display-large leading-display-small sm:leading-display-medium lg:leading-display-large tracking-display-small sm:tracking-display-medium lg:tracking-display-large
       `}>Unforgettable Moments Seamless Execution</h1>
       
       <section className={`
-          flex flex-wrap gap-4 items-center justify-center
+          flex flex-wrap gap-4 md:gap-6 items-center justify-center max-w-[600px]
           *:w-fit *:p-4 sm:*:p-6 *:bg-secondary-400 *:text-neutral-700 *:rounded-[20px] rubik
           *:font-medium *:text-h3-small sm:*:text-h3-medium lg:*:text-h3-large *:leading-h3-small sm:*:leading-h3-medium lg:*:leading-h3-large *:tracking-h3-small sm:*:tracking-h3-medium lg:*:tracking-h3-large
         `}>
